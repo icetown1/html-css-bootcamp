@@ -1,0 +1,15 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+.onedog {
+    border: 10px groove darkorange;
+
+}.twodogs {
+    border: 10px groove aqua;
+
+}.threedogs {
+    border: 10px groove darkorange;
+
+}
