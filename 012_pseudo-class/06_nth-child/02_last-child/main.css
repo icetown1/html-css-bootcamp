@@ -1,0 +1,15 @@
+body{
+    font-size: 36px;
+}
+/*first li of the parent which is ul in this case. There are two.*/
+li:first-child{
+    color:red;
+}
+/*first ul of the parent which is body in this case*/
+ul:first-child{
+    background-color: yellow;
+}
+/*last li of the parent which is ul in this case. There are two.*/
+li:last-child{
+    color: red;
+}

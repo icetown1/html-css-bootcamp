@@ -1,0 +1,5 @@
+li:nth-child(3n+2){
+    color:red;
+}
+
+/*li:nth-child(8n+10) would be the 8th item then every ten items*/

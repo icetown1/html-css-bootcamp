@@ -1,0 +1,10 @@
+body{
+    font-size: 36px;
+}
+
+/*Selects even children of the parent of li which is ul. There are two.*/
+li:nth-child(odd){
+    color:red;
+}
+
+/*Can also do nth-child(even)*/
