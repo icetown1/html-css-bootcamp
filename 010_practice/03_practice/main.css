@@ -6,6 +6,7 @@ div {
 }
 .div2{
     box-sizing: border-box;
+    /*background image doesnt need /html except for in webstorm*/
     background-image: url("/html-css-bootcamp/000img/puppy.jpg");
     background-size: cover;
     background-repeat: no-repeat;
