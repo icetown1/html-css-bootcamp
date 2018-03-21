@@ -1,0 +1,23 @@
+p{
+    color:deepskyblue;
+}
+#purgraph{
+    color:gold;
+}
+
+
+.reelnice{
+    color:lightcoral;
+}
+
+a{
+    border: 5px dashed rebeccapurple;
+}
+
+[target]{
+    border: 5px dashed seagreen;
+}
+
+.pic{
+    border: 5px dashed orangered;
+}
