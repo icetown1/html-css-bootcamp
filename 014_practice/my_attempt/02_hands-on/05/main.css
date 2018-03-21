@@ -1,0 +1,9 @@
+p::first-letter{
+    color:blueviolet;
+    font-weight: bolder;
+}
+p::first-line{
+    color:darkolivegreen;
+    font-family: Bahnschrift;
+    font-size: xx-large;
+}
