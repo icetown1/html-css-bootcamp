@@ -3,3 +3,5 @@ li:nth-child(3n+2){
 }
 
 /*li:nth-child(8n+10) would be the 8th item then every ten items*/
+
+/*li:nth-child(3n+9) would be starting at 9 then every 3rd line*/
