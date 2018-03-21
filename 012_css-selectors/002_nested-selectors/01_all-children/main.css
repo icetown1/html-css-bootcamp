@@ -1,0 +1,10 @@
+body{
+    font-size: 36px;
+    text-align: center;
+    padding-top: 36px;
+}
+
+/*div p selects all p inside a div*/
+div p{
+    color:red;
+}

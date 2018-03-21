@@ -1,0 +1,9 @@
+body{
+    font-size: 36px;
+    text-align: center;
+    padding-top: 36px;
+}
+/*Any immediate child of a div*/
+div > p{
+    color:red;
+}
