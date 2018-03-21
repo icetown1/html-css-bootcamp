@@ -1,0 +1,38 @@
+html{
+    background-color: blue;
+}
+
+body{
+    background-color: green;
+    width: 400px;
+    margin: 0 300px 0 100px;
+    border: 3px solid black;
+}
+
+img{
+    display: block;
+    margin: 5px auto;
+    width: 200px;
+    height: 160px;
+    border: groove orange;
+    border-radius: 100%;
+    border-width: 10px;
+}
+h1{
+    color: cornflowerblue;
+    font-size: large;
+    margin: 20px;
+}
+
+h2{
+    color: red;
+    font-size: large;
+    margin:20px
+}
+
+p{
+    margin:20px;
+    line-height: 15px;
+    font-size: 12px;
+    font-weight: bold;
+}
