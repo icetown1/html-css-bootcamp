@@ -1,0 +1,22 @@
+body{
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+p{
+    margin: 20px;
+    max-width: 600px;
+    text-indent: 10px;
+}
+/*double colon makes this first letter it's own element to make changes to only it*/
+p::first-letter{
+    font-family: cursive;
+    font-size: 36px;
+    line-height: .5;
+}
+
+p::first-line{
+    color:red;
+    font-weight: 900;
+}

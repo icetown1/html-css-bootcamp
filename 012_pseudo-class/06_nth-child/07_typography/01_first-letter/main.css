@@ -1,0 +1,16 @@
+body{
+    width:80%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+p{
+    margin: 20px;
+}
+/*psuedo element has two colons where class has one*/
+p::first-letter{
+    font-family: cursive;
+    font-size: 36px;
+    line-height: .5;
+    color: red;
+}
