@@ -1,0 +1,11 @@
+body{
+    font-family: sans-serif, serif;
+    font-size: xx-large;
+    /*font-family: serif;*/
+}
+
+
+/*removes underline from link*/
+a{
+    text-decoration: none;
+}

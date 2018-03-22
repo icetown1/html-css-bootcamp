@@ -21,3 +21,7 @@ a{
 .pic{
     border: 5px dashed orangered;
 }
+
+h1{
+    font-family: monospace;
+}
