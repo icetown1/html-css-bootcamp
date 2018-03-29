@@ -1,0 +1,12 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 5px solid red;
+}

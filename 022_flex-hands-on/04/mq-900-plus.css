@@ -1,0 +1,9 @@
+ul{
+    display: flex;
+    justify-content: flex-end;
+    flex-flow: row;
+}
+
+a {
+    padding: 1em;
+}

@@ -1,0 +1,22 @@
+body, html, ul, li, a{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul {
+    display: flex;
+    flex-flow: column;
+    list-style-type: none;
+}
+li{
+    margin: 20px;
+}
+a{
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color:black;
+}

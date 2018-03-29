@@ -1,0 +1,27 @@
+body, html, nav, ul, li, main, section{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    display: block;
+    flex-flow: column wrap;
+    border: 5px solid red;
+}
+
+li{
+    display: block;
+    margin: 15px;
+    text-align: center;
+}
+a{
+    /*display: block;*/
+    text-decoration: none;
+    color: black;
+}
+main{
+    border: 5px solid red;
+    min-height: 50vh;
+}

@@ -1,0 +1,21 @@
+header{
+    width:100%;
+}
+article{
+    box-sizing: border-box;
+    width:60%;
+    order:3;
+}
+aside{
+    box-sizing: border-box;
+    width:20%;
+}
+.num1{
+    order: 2;
+}
+.num2{
+    order:4;
+}
+footer{
+    order:5;
+}

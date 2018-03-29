@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width:100%;
+}
+article{
+    width:100%;
+}
+
+aside{
+    width:50%;
+    box-sizing: border-box;
+}
+footer{
+    width:100%;
+}

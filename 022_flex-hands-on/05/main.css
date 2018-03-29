@@ -1,0 +1,41 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-flow: column;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: orangered;
+    text-align: center;
+    padding: 10px;
+}
+article{
+    background-color: deepskyblue;
+    padding: 10px;
+
+}
+aside:nth-of-type(1){
+    background-color: yellow;
+    text-align: center;
+    padding: 10px;
+
+}
+aside:nth-of-type(2){
+    background-color: deeppink;
+    text-align: center;
+    padding: 10px;
+
+}
+footer{
+    background-color: lawngreen;
+    text-align: center;
+    padding: 10px;
+
+}
