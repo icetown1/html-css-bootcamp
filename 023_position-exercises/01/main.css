@@ -1,0 +1,13 @@
+html, body, footer{
+    margin: 0;
+    border: 0;
+}
+
+
+footer{
+    position: fixed;
+    bottom: 0px;
+    height: 5vh;
+    width: 100vw;
+    background: teal;
+}
